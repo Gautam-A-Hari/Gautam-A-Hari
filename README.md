@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gautam</h1>
-<h3 align="center">I am student and aspiring Cloud Developer</h3>
+<h3 align="center">I Am A Student Studying Computer Science and An Aspiring Cloud Developer</h3>
 
 - 🧑🏿‍💻 I’m currently Participating in Data For Good **Data For Good**
 
