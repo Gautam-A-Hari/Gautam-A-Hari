@@ -7,7 +7,7 @@
 
 - 🤖 I'm A Co-President of Machine Learning For ALL @IU [ML4ALL@IU](https://github.com/Ml4All-IU)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:[LinkedIn](https://www.linkedin.com/in/gautamhari/)</h3>
 <p align="left">
 </p>
 
