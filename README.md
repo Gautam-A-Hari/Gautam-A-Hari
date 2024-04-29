@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautam-a-hari&label=Profile%20views&color=0e75b6&style=flat" alt="gautam-a-hari" /> </p>
 
-- 🧑🏿‍💻 I’m currently Participating in Data For Good **Data For Good**
-
-- 🧑🏿‍💻 I'm currently Participating in IndySCC [IndySCC](https://sc23.supercomputing.org/students/indyscc/)
-
 - 🤖 I'm A Co-President of Machine Learning For ALL @IU [ML4ALL@IU](https://github.com/Ml4All-IU)
 
 <h3 align="left">Connect with me:</h3>
